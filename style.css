@@ -233,7 +233,7 @@ li.next:hover a{
 }
      /* footer for all pages */
 footer{
-    
+    margin-top: auto;
     background-color: rgb(114, 151, 220);
     border-radius: 5px;
     padding: auto;
